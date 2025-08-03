@@ -41,7 +41,7 @@ Routing & Structure: Next.js App Routing
   
 ## Installation🔧
 
-Clone the repository:https://github.com/ThanmaiPuppala/EVO-GYM.git
+Clone the repository:https://github.com/ThanmaiPuppala/Exploreo.git
 
 Install dependencies:npm install
 
