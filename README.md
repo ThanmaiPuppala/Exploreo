@@ -26,3 +26,27 @@ Bundler & Tooling: Vite
 Animations & Effects: Framer Motion, React Slick
 
 Routing & Structure: Next.js App Routing
+
+## Features
+
+- Responsive design with Tailwind CSS
+  
+- Search and filter travel destinations
+  
+- Fast loading using Vite + Next.js
+  
+- Smooth animations with Framer Motion
+  
+- Reusable components with TypeScript
+  
+## Installation🔧
+
+Clone the repository:https://github.com/ThanmaiPuppala/EVO-GYM.git
+
+Install dependencies:npm install
+
+Running the Application:npm run build
+
+## License📜
+This project is licensed under the MIT License.Feel free to use and modify it.
+  
