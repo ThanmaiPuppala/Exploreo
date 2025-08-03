@@ -4,7 +4,8 @@
 
 <img width="1425" height="809" alt="Screenshot 2025-08-03 at 11 07 07 AM" src="https://github.com/user-attachments/assets/b364c6b1-60dd-4b57-a662-9d702a43fcc3" />
 
-Table of Contents📑
+
+## Table of Contents📑
 
 - [Overview](#exploreo)
 
@@ -15,3 +16,13 @@ Table of Contents📑
 - [Installation](#installation)
 
 - [License](#license)
+
+## Tech Stack🚀
+
+Frontend: React.js, TypeScript, Next.js, Tailwind CSS
+
+Bundler & Tooling: Vite
+
+Animations & Effects: Framer Motion, React Slick
+
+Routing & Structure: Next.js App Routing
